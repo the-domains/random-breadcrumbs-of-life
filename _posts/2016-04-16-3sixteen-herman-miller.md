@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T08:52:18.627Z'
+datePublished: '2016-08-03T08:55:02.670Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - worn-in
 related: []
 author: []
-dateModified: '2016-08-03T08:52:17.758Z'
+via: {}
+dateModified: '2016-08-03T08:55:02.171Z'
 title: 3sixteen + Herman Miller
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   commitment to inspiring through timeless, dependable design.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>3sixteen + Herman Miller</h1><p>LES-based raw denim fiends 3sixteen advocate skilled craftsmanship and longevity-which is why they often post photos of their customers' faded, worn-in jeans after years of use. Thus, their special collaboration with design manufacturer Herman Miller makes perfect sense, as there's a shared commitment to inspiring through timeless, dependable design.</p><img src="http://assets.coolhunting.com/coolhunting/2015/12/09/large_3sixteen-herman-miller-thub.jpg" /></article>
+![People of Oman](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b6a2ad5-50a3-4e8b-9e0d-e1e4090c59ab.jpg)
