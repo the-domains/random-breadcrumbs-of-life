@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T08:55:02.670Z'
+datePublished: '2016-08-03T16:31:19.906Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T08:55:02.171Z'
+dateModified: '2016-08-03T16:31:19.811Z'
 title: 3sixteen + Herman Miller
 app_links: []
 publisher:
