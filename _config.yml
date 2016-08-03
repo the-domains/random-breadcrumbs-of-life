@@ -1,0 +1,14 @@
+layout_spectrum: 0.8428178809117526
+typography_spectrum: 0.9612844071816653
+color:
+  brandStrength: 0.9875391810201108
+  lightness: 0.49471138208173215
+  saturation: 0.8064527015667409
+  rhythmicContrast: 0.2900583231821656
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: random breadcrumbs of life
